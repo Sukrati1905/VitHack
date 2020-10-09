@@ -1,0 +1,18 @@
+body{
+  background-color:Bisque;
+}
+h1{
+  color:SaddleBrown;
+  background-color:;
+  font-family:Cursive;
+  text-align:center;
+}
+canvas{
+  border:2px solid Gray;
+  width:665px;
+  height:330px;
+  margin:5px;
+}
+h3{
+  font-family:"Courier New";
+}
